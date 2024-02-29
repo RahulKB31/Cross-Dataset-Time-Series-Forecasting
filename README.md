@@ -4,6 +4,8 @@
 
 Time series forecasting (TSF) is crucial in data analysis, especially in economic and financial contexts, where the prediction of trends plays a vital role. This project explores the performance of two prominent forecasting methodologies: Auto Regressive Integrated Moving Average (ARIMA) and Long Short-Term Memory (LSTM) models, focusing on economic and financial datasets.
 
+![Cross-Dataset Time Series Forecasting using ARIMA and LSTM models]([path/to/your/image.png](https://github.com/RahulKB31/Cross-Dataset-Time-Series-Forecasting/blob/main/TSF.png))
+
 ## Motivation
 
 The dynamic nature of recent datasets poses challenges for traditional forecasting models like ARIMA, especially with large non-linear and complex datasets. Deep learning techniques such as LSTM have emerged as promising alternatives for capturing complex sequential dependencies in time series data. However, empirical evidence is lacking, particularly regarding LSTM's performance compared to traditional econometric methods like ARIMA, especially in financial time series forecasting.
